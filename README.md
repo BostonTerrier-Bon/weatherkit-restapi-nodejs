@@ -1,7 +1,5 @@
 # Apple WeatherKit REST API × Node.js
 
-![](https://github.com/BostonTerrier-Bon/zenn-docs/blob/main/images/weatherkit/weatherkit-trademark.png)
-
 ## Overview
 
 This is the Apple WeatherKit REST API demo with Node.js.
@@ -66,13 +64,12 @@ Forecast daily
 ...
 ```
 
-
-
 ## Reference
 
 ### Apple WeatherKit
 - [Other data sources](https://weatherkit.apple.com/legal-attribution.html)
 
+![](https://github.com/BostonTerrier-Bon/weatherkit-restapi-nodejs/blob/images/weatherkit-trademark.png)
 
 ## Author
 
